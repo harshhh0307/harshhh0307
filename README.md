@@ -1,3 +1,4 @@
+![logo](https://github.com/harshhh0307/harshhh0307/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm HARSH MADHAV</h1>
 <h3 align="center">A passionate Mechanical engineering student from NIT Patna</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400">
