@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhh0307&label=Profile%20views&color=0e75b6&style=flat" alt="harshhh0307" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ harsh-madhav-598185283](www.linkedin.com/in/ harsh-madhav-598185283)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ harshmadhav](www.linkedin.com/in/ harshmadhav)
 
 - 📫 How to reach me **harshmadhav52@gmail.com**
 
